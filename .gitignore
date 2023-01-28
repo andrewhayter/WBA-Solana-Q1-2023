@@ -1,0 +1,6 @@
+/*-dump.txt
+/*.so
+/target/
+build/
+test-ledgr/
+node_modules/
